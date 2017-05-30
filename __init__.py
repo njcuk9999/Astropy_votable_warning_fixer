@@ -20,4 +20,4 @@ __all__ = ['Add_buttons', 'Rectangle_Selector']
 # =============================================================================
 #  Functions
 # =============================================================================
-VOfix = VOtable_warning_fixer.
+VOfix = VOtable_warning_fixer.fix_table
